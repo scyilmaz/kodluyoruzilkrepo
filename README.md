@@ -29,9 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-<a href="https://choosealicense.com/licenses/mit/">MIT</a>
- 
-                                                                                                                               
-                                                                              For;<a href="www.patika.dev">MIT</a>
-
-                                                                                                                  
+<a href="https://choosealicense.com/licenses/mit/">MIT</a>                                                                                                                   
